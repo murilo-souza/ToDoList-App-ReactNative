@@ -1,2 +1,2 @@
-# ToDoList-ReactNative
+# ToDoList
  Primeiro App em React Native
