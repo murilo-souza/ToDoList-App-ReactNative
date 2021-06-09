@@ -8,3 +8,9 @@
 <ul>
  <li><a href="https://reactnative.dev">React Native</a></li>
 </ul>
+
+<h2>Vídeo</h2>
+<ul>
+ <li><a href="https://www.youtube.com/watch?v=0kL6nhutjQ8&list=PLD85btOM_5RRRt8VrzyBHr0yj1vJtCpTs&index=2">Link do vídeo</a></li>
+ <li><a href="https://www.youtube.com/channel/UCHgS0H3T3459H1e9QWK_Ezg">Link do canal</a></li>
+</ul>
